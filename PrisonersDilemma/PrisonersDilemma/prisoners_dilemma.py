@@ -192,6 +192,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     #STUDENTS ADD AN elif with your code next for adding a new agent
     elif player == 4:
+        print('Matthew Sedam. I always choose b. Choose Wisely')
         if getting_team_name:
             return 'Matthew Sedam. I always choose b.'
         else:
@@ -265,16 +266,16 @@ def play_tournament(num_players):
                 # store the results in the file
                 #title by team numbers
                 results.write('team ' + str(player1) +
-                              ' vs. ' + 'team ' + str(player2) +'\n')
+                              ' vs. '+ 'team '+ str(player2)+ '\n')
                 #title by player-on-player average score
-                results.write(str(result_table[player1][player2]) +
-                              ' vs. ' + str(result_table[player2][player1])+'\n')
+                results.write(str(result_table[player1][player2])+
+                              ' vs. '+ str(result_table[player2][player1])+'\n')
                 #title by team names
-                results.write(team_names[player1] +
-                             ' vs. ' + team_names[player2] + '\n')
+                results.write(team_names[player1]+
+                             ' vs. '+ team_names[player2]+ '\n')
                 #show the moves, aligned vertically
-                results.write(moves_table[player1][player2] +'\n')
-                results.write(moves_table[player2][player1] +'\n')
+                results.write(moves_table[player1][player2]+'\n')
+                results.write(moves_table[player2][player1]+'\n')
                 #blank line between each pair's results
                 results.write('\n')
 
