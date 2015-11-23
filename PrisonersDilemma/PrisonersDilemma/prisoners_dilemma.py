@@ -191,6 +191,14 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c' #otherwise collude
 
     #STUDENTS ADD AN elif with your code next for adding a new agent
+    elif player == 4:
+        if getting_team_name:
+            return 'Matthew Sedam. I always choose b.'
+        else:
+            if len(opponent_history) == 0 or len(opponent_history) == 1 or len(opponent_history) == 2 or len(opponent_history) == 3:
+                return 'b'
+            else:
+                return 'c'
   
 
 
