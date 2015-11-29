@@ -192,7 +192,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     #STUDENTS ADD AN elif with your code next for adding a new agent
     elif player == 4:
-        print('Matthew Sedam. I always choose b. Choose Wisely')
+        print ('Matthew Sedam. I always choose b. Choose Wisely')
         if getting_team_name:
             return 'Matthew Sedam. I always choose b.'
         else:
@@ -200,6 +200,28 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'b'
             else:
                 return 'c'
+    
+    elif player == 5:
+        if getting_team_name:
+            return 'Al Capone'
+        else:
+            print('Do not take it personal... I am rude to everyone...')
+            return 'b'
+    
+    elif player == 6:
+        if getting_team_name:
+            return 'Nice Man'
+        else:
+            print('I like to be nice. Join me in my quest to gain back humanity by choosing c.')
+            return 'c'
+    
+    elif player == 7:
+        if getting_team_name:
+            return 'Rude Man'
+        else:
+            print('I like to be nice. Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c.')
+            return 'b'
+        
   
 
 
