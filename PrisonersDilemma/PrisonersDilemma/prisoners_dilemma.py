@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import print_function
 '''
 some changes made
@@ -191,36 +192,44 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c' #otherwise collude
 
     #STUDENTS ADD AN elif with your code next for adding a new agent
-    elif player == 4:
-        print ('Matthew Sedam. I always choose b. Choose Wisely')
+    
+    #Players #4 – #7 were created by Ben Hardin
+    
+    elif player == 4: #This is an agent that tells the user he is going to betray, but he only betrays if the opponent has 3 or less items in his history.
         if getting_team_name:
-            return 'Matthew Sedam. I always choose b.'
+            return 'Matthew Sedam. I always choose b...'
         else:
-            if len(opponent_history) == 0 or len(opponent_history) == 1 or len(opponent_history) == 2 or len(opponent_history) == 3:
+            if len(opponent_history) > 3:
                 return 'b'
             else:
                 return 'c'
     
-    elif player == 5:
+    elif player == 5: #This is an agent that always chooses to betray and tells the user that he is going choose to betray.
         if getting_team_name:
             return 'Al Capone'
         else:
-            print('Do not take it personal... I am rude to everyone...')
             return 'b'
     
-    elif player == 6:
+    elif player == 6: #This is an agent that always colludes.
         if getting_team_name:
-            return 'Nice Man'
+            return 'Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.'
         else:
-            print('I like to be nice. Join me in my quest to gain back humanity by choosing c.')
             return 'c'
     
-    elif player == 7:
+    elif player == 7: #This is an agent that says they will always colludes but always betrays instead.
         if getting_team_name:
-            return 'Rude Man'
+            return 'Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...'
         else:
-            print('I like to be nice. Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c.')
             return 'b'
+    
+    elif player == 8:
+        chance = random.choice((True, False))
+        if getting_team_name:
+            return 'The Insecure Man. I never know what I am going to choose.'
+        elif chance == False:
+            return 'b'
+        elif chance == True:
+            return 'c'
         
   
 
