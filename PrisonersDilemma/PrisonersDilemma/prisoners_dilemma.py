@@ -230,6 +230,18 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             return 'b'
         elif chance == True:
             return 'c'
+    
+    elif player == 9: #This player changes tactics.
+        if getting_team_name:
+            return 'What Kind of Wizardry is This?!'
+        elif score <= -110:
+            return 'b'
+        elif score >= -110:
+            return 'c'
+    
+    elif player == 10:
+        if getting_team_name:
+            return 'I hope this will be the best agent...'
         
   
 
