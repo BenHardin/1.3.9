@@ -241,13 +241,27 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     
     elif player == 10:
         if getting_team_name:
-            return 'I hope this will be the best agent...'
-        
-  
-
-
-
-
+            return 'I change my tactics, but they do not work.'
+        elif opponent_score <= 110:
+            return 'b'
+        elif opponent_score >= 110:
+            return 'c'
+    
+    elif player == 11:
+        if getting_team_name:
+            return 'FBI'
+        elif opponent_history == 'c':
+            return 'b'
+        elif opponent_history == 'b':
+            return 'c'
+    
+    elif player == 12:
+        if getting_team_name:
+            return 'Rocky Balboa'
+        elif history == 'c':
+            return 'b'
+        elif history == 'b':
+            return 'c'
 
 def play_tournament(num_players):
     #create a list of zeros, one per player

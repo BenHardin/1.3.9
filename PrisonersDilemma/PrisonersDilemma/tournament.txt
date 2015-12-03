@@ -1,272 +1,470 @@
 team 1 vs. team 0
--384 vs. -64
+-374 vs. -78
 RandomFriendlyMimicAgent vs. backstabber
-ccccccccccbcccbbbccbbbbbccccbbbbbbbbcbbcbbbbccccbbccccccbcbcbbcbbcccbcbcbbcbbccbcbbcccbbcbcccbccbcbcbccbcccbccccbbbbcbcbcbcbcbcbccbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbccbbbcbccbccccccccbcccbcccbbbccbccbbbbcbcbbbcbbbbccbbccbcbbccbcbccbbbbbbcbbbccbcbbcbcbccbcccbcccbbcbcccbbcccbccbccbccbcbbbbcbcccbbbcbcbbccbccbbcbbccbbbcbbbbbbbbbccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 2 vs. team 0
--252 vs. -248
+-253 vs. -247
 loyal vengeful vs. backstabber
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 2 vs. team 1
 50 vs. 50
 loyal vengeful vs. RandomFriendlyMimicAgent
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 3 vs. team 0
--376 vs. -74
+-375 vs. -75
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 1
 50 vs. 50
 loyal vengeful vs. RandomFriendlyMimicAgent
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 3 vs. team 2
 50 vs. 50
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 0
--259 vs. -238
+-256 vs. -243
 Matthew Sedam. I always choose b... vs. backstabber
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 4 vs. team 1
--78 vs. -362
+-62 vs. -374
 Matthew Sedam. I always choose b... vs. RandomFriendlyMimicAgent
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccbbbbbccccccccccbcbccbccccbcbbbbccbbcbbbcbbbbbbbbbbcbbcbcccbbcbbbbbcbcbcccbbbcbbbccbcbbccccbcbbbbcccbcccbbcccccbbcccbbbcbbccbcbcbccbbcbbcbcbcccccbbcbbbccbbcbccbcbbcbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccbbcbbbcbccccbbbcbbccccccbbbbbbbcccbcccbcccbcccbcccbccccbccbbbbcbbcccbbbccbcbcccbbccbbcbbcccbcbcbcbbccbbccccbcbbbccbbcbbccbbbccbccbcbcbcbcbcbbbbcbbbbccbcccbbcccccccbbccccbbb
 
 team 4 vs. team 2
--235 vs. -241
+-238 vs. -243
 Matthew Sedam. I always choose b... vs. loyal vengeful
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 4 vs. team 3
--72 vs. -364
+-73 vs. -367
 Matthew Sedam. I always choose b... vs. loyal vengeful
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
 
 team 5 vs. team 0
 -250 vs. -250
 Al Capone vs. backstabber
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 5 vs. team 1
--92 vs. -363
+-64 vs. -384
 Al Capone vs. RandomFriendlyMimicAgent
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cbccbbbccbbccbbbbbcbbbcbbcbcbcbcbcbbbcbccbbbbccbccbcbcbbbccbbcccbbccbcbcbbbcbbccbbccbccbccbcbbbcbbccbccbbccbcbccbbbbcbbbbccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccbbbccbcbbbcbcbccccbcbcbccbbcbbcccbbcccccbbbcccccbbbcbcccbbbbccbbcbccccbbcccbcbbbbbbcbccbccbcbccbbbbc
 
 team 5 vs. team 2
--248 vs. -252
+-248 vs. -253
 Al Capone vs. loyal vengeful
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 5 vs. team 3
--75 vs. -375
+-75 vs. -376
 Al Capone vs. loyal vengeful
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
 
 team 5 vs. team 4
 -240 vs. -258
 Al Capone vs. Matthew Sedam. I always choose b...
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 6 vs. team 0
 -500 vs. 100
 Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c. vs. backstabber
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 6 vs. team 1
 50 vs. 50
 Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c. vs. RandomFriendlyMimicAgent
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 2
 50 vs. 50
 Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c. vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 3
 50 vs. 50
 Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c. vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 4
--480 vs. 98
+-488 vs. 98
 Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c. vs. Matthew Sedam. I always choose b...
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 6 vs. team 5
 -500 vs. 100
 Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c. vs. Al Capone
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 7 vs. team 0
 -250 vs. -250
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. backstabber
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 7 vs. team 1
--68 vs. -381
+-72 vs. -378
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. RandomFriendlyMimicAgent
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbbccbbcbccbccccbbcbbbbcccbbbbccbbcbccbccccbcccbcbbbccbcbbbccbbbcbccccbcbbccccccccbccbccbcccbbbbccbcbbbbcbbccbbbccccbbbcbbbccbcbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccccbbcccbbcbcbccbbccbcbccbcbccbcbbbbcccccbbbccbbbccbcbcbbbcccbbccbcbcbccbcbbbbcbcbbccccbbbbbbcbcccbbcbcccbcbbbbccccbbcbcbbbbbbccbcbcbcbbbccccbcbbcbbccbccbbccc
 
 team 7 vs. team 2
 -249 vs. -252
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. loyal vengeful
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 7 vs. team 3
--74 vs. -376
+-74 vs. -377
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. loyal vengeful
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
 
 team 7 vs. team 4
--243 vs. -256
+-242 vs. -256
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. Matthew Sedam. I always choose b...
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 7 vs. team 5
 -250 vs. -250
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. Al Capone
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 7 vs. team 6
 100 vs. -500
 Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c... vs. Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 0
--385 vs. -63
+-367 vs. -87
 The Insecure Man. I never know what I am going to choose. vs. backstabber
-bbbcbccccbccbcbcbcbbbccbbccccbccccbbcbccbbcbbbcbbbccbbcbccccbbcccbbbccccccbbccbbbcbccbccccbbbbbbbbcccbcbcbbccbbbbcccbbccccbbccccccccccbcbbccbbcccbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbccbbccbbccbbbbccbccbbbbcbcbcbcbbbbccbbcccccbcccccbcbcbbbbbcbbccccbcbbbcbcbbcbbcbcbbbbbcbcccbccbbbccccbcccbcbbbbbbbcbbcbbbcbcccccccbbbccbbbbbcccbcbccbbbcbbcbbcbccbbbccbcccbbbccbbccb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 8 vs. team 1
--58 vs. -195
+-37 vs. -189
 The Insecure Man. I never know what I am going to choose. vs. RandomFriendlyMimicAgent
-bcbcbbbbcbbbccbbbcbbcbccccbccccbcccbcccbcbcbbcbccccccccbbccbccbcbbcbbbcbbbcbbcbcccbbbbbbbbcbcbccccbbcccbbbbccbbcbbcbccbbcbccbcbbbbcbbcccccccbbccbcbbbcbbccbbb
-cbcbccbccccbbcccbbcbbccccccbccccccccbcccccbccbcbccccccccccccbccbccccccbcccbcbbcbccccccbcccbcbcccccccbcccbbbcccbccbbcbcccbcbccbcccbbcbccccccccbcccbcbbbcccccbc
+cbcccbbcccbccbbbbbbcbbbbccbbcbcccbcbccbbbcccbbbbccbbbbbbcbbbbccccbbbcbccbbbcbcbccbcbbbbcbbbcbbbbcccbcccccbcccbcbcbbcbcccccbccbcccbcccccbcbcbbbbbcbbbccbcbcccbbccccbcbbcbbbcbccbccccbcb
+ccbccccccccbcccbbcbccbccccccbcccccccccccbccccbcccccccbbcccbbbbccccccbcbccccbcbccccccbbccccbbcccbccccbcccccbcccccbcbbcbcccccbccbcccbcccccbcccbccbbcbcbccccbcccbccccccccccbbccbcccccccbc
 
 team 8 vs. team 2
--150 vs. -150
+-159 vs. -159
 The Insecure Man. I never know what I am going to choose. vs. loyal vengeful
-bcbbbbcccbcbbcccbccbcbccbcbcbbccbbcbbbcbcbbbcccbbbbccccbbccbccbcbbbbbbcccbccccbbccccbbbcbccbbbccccbbbbbcc
-cbcbbbbcccbcbbcccbccbcbccbcbcbbccbbcbbbcbcbbbcccbbbbccccbbccbccbcbbbbbbcccbccccbbccccbbbcbccbbbccccbbbbbc
+ccbbbbcbcbbccccbbbbbbbcbbbcccbbcbbbcbbbcccbbcbbccbbbbbcccbbcbbcbbbbcbcbcbcccccbbcbbbbbccbbcbccbcccbcbbcbbbcccccccbcbccbbcbcc
+cccbbbbcbcbbccccbbbbbbbcbbbcccbbcbbbcbbbcccbbcbbccbbbbbcccbbcbbcbbbbcbcbcbcccccbbcbbbbbccbbcbccbcccbcbbcbbbcccccccbcbccbbcbc
 
 team 8 vs. team 3
--79 vs. -179
+-81 vs. -188
 The Insecure Man. I never know what I am going to choose. vs. loyal vengeful
-bcbbcccccbbcccbbcbbcbcbcbbbcbbbccbccbbcccbccbbccbbcccbcbbccbcbbbcbcbcbbbbcbbcbccccbbbbbcccbbbccbbcccbcbcbbbccbcbbccbcbbcccbccbbbcbcc
-cbcbccccccbccccbccbccbcbcbcbcbcbccbccbccccbccbcccbccccbcbcccbcbcbcbcbcbcbccbccbccccbcbcbcccbcbccbccccbcbcbcbccbcbcccbcbccccbccbcbcbc
+cccbbccccbccbccbcbbcbcbbbccccbcbcccbcbcbbcbcbbccbccbcbbbbcbbbbbbcbbbbbcccccccbccbbcccbcbbbcbcbcbccbbccbcbbbccbbbbbcbbcbbbbcb
+ccccbcccccbccbccbcbccbcbcbccccbcbcccbcbcbccbcbcccbccbcbcbccbcbcbccbcbcbcccccccbccbccccbcbcbcbcbcbccbcccbcbcbccbcbcbcbccbcbcc
 
 team 8 vs. team 4
--367 vs. -77
+-355 vs. -93
 The Insecure Man. I never know what I am going to choose. vs. Matthew Sedam. I always choose b...
-bbcccbbcbbbbbbcccccbccbcbbcbccbbcbbcbbbbccbbbbbbcbcccbbcccbbcbbbbcbcbbcbbbcbbcbccbccbccbbcbbbccccbcbccbccbbcbbcbccccbccbcbcccbccccbcccccbcbccccbcbcbcbcbcbccbbbcbbbcbbcccbbcbbcbcc
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbbbcbbccbbccbcbcbcbbbcbbccbccbbbcccbbbcbbbbcbbcccbbcbcccbcbccbcbbcbbbbbccccccbbbcccbcbbcbccbcbcbcbbbbbbbbcbccbbbbccbbcbbbbcbccbbccbcbbbbcbcbccbcbcbcbcccbbcccccbcbbccb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 8 vs. team 5
--375 vs. -75
+-362 vs. -94
 The Insecure Man. I never know what I am going to choose. vs. Al Capone
-ccbccccbbcccbcccbbbcbbbcbcbcbbccbcbcbbcbbcbbccbcbccbcbcccccccbccbbbccbbbcbbbbbcbcccbbbcbcbbcbcbbcccccbcbcccbcbcccccbbbbbbbbcbbcbccbbbcbbbccbcccbbbccbccbcccbbbbbbbcccb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bccbccbbbcbcbbcbbbcbccbcbccbcbcbcbcbbbcbcccbbccbbbcbcccbcbbccbbbcbbbbcbbcbbbbccbccbbbbbccbccbbcccbccbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 8 vs. team 6
-76 vs. -240
+74 vs. -221
 The Insecure Man. I never know what I am going to choose. vs. Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
-cbcccccccbbbccbbcbbbbcbccbbcbbcbbbbbcbbbcbbbcbbbbbbcbbcccccbccbbbbbcbcbccbccbbbbbccbbbbbccbbcbccccbccbcbcbbccbcbcbbcbbcbbbcbcbbbbccbcbccbccbbccbcbbbccccccbcbccbbccbcbcbbccbcccbbbccccbcccbcbcbcbb
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cbccccbbccbbccbbbbbbbbcbbcbcbbbbbccbcbccbbbcccccbbcbbcbccbbccbcbcccbcccccccbbcbbcbcbbccbbbcbccccbbcbbbbcccccccbcbcbcbbcbbcbccccbbccbcbbbbbcbcbbccbbbbccbbcbcccbccbccccbbcbcbcccbcbbbc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 7
--382 vs. -66
+-394 vs. -50
 The Insecure Man. I never know what I am going to choose. vs. Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
-ccccbcbbbbcbcbcbcbcbbbcbbcccbbbbbbbbccbcbccccccbbcccbccccbcbcbbbcccbcbccbbcbcbcccccccbbcccbbbbbbbcbbccccccbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbbbcbbcbbbbcbccbbbbbccbbcbccbcccccbbccbccbccccbbcbccccbbccccccbcccbcbccbcccccccbbbccccbbcbbbbccbbccbbbccbccbcccbccbbccccbbccccbcbccbbcbbbbccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 9 vs. team 0
 -252 vs. -249
 What Kind of Wizardry is This?! vs. backstabber
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 9 vs. team 1
 50 vs. 50
 What Kind of Wizardry is This?! vs. RandomFriendlyMimicAgent
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 2
 50 vs. 50
 What Kind of Wizardry is This?! vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 3
 50 vs. 50
 What Kind of Wizardry is This?! vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 4
--244 vs. -240
+-245 vs. -241
 What Kind of Wizardry is This?! vs. Matthew Sedam. I always choose b...
-cccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 9 vs. team 5
--253 vs. -247
+-252 vs. -248
 What Kind of Wizardry is This?! vs. Al Capone
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 9 vs. team 6
 50 vs. 50
 What Kind of Wizardry is This?! vs. Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 7
--252 vs. -248
+-253 vs. -247
 What Kind of Wizardry is This?! vs. Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 9 vs. team 8
--61 vs. -372
+-64 vs. -378
 What Kind of Wizardry is This?! vs. The Insecure Man. I never know what I am going to choose.
-ccccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccbbbccbbbbbcccbbcbcbcccccbbbcbbccccbbcbcbbcccccbccbbbcccbbbcbcbbcccccccbccccccbcbcbcbbcbccccbbcbbcbcbcccbbbccccbccccbccccbcccccbcbbbcbbbcbbbcbcccbcbccbcccbbbcccbbbbcbbbcbbccbccbbbbcbcbbcb
+ccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcccbcbccbcccbcbcbcccbcccccbccccbbccbbbccbcccbbccbcbbcbbbcbcccbcbcbbbbbccbbbbbcbcbbcbbccbbcbbccbcbbcbcccbccbcc
+
+team 10 vs. team 0
+-250 vs. -250
+I change my tactics, but they do not work. vs. backstabber
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 1
+-62 vs. -385
+I change my tactics, but they do not work. vs. RandomFriendlyMimicAgent
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbcbcbcbccbcbccccbbbcbcbcbbbcbbccbbccccbbbbbccbcbccccccbbccbbccbbbbcbccbcccbcccccccbbccccbbccccbccbbccccccbbbccccccbbbbcbcbbbcbbbcbcbbccccbcbcbccbbcbbbcbbcbbbcbcbcbccbbbbcc
+
+team 10 vs. team 2
+-247 vs. -253
+I change my tactics, but they do not work. vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 3
+-75 vs. -375
+I change my tactics, but they do not work. vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+
+team 10 vs. team 4
+-236 vs. -260
+I change my tactics, but they do not work. vs. Matthew Sedam. I always choose b...
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 5
+-250 vs. -250
+I change my tactics, but they do not work. vs. Al Capone
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 6
+100 vs. -500
+I change my tactics, but they do not work. vs. Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 7
+-250 vs. -250
+I change my tactics, but they do not work. vs. Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 8
+-83 vs. -370
+I change my tactics, but they do not work. vs. The Insecure Man. I never know what I am going to choose.
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbcbccccbbbbbbcccccbbbbccbbccbcbbbccbbcbbcbcbccbbcbcccbbbbbbccbcbcbbbbbbccccbbcbcbcbcbcbbbbcbbbbbbbbcbbccccbbbbcbccccccbcbcbbcccbcccbccccbbbbbbcccbccbbcccccbccccbccbbbcccbccbbbcbbbc
+
+team 10 vs. team 9
+-249 vs. -252
+I change my tactics, but they do not work. vs. What Kind of Wizardry is This?!
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 0
+-4 vs. 0
+FBI vs. backstabber
+ c                                                                                                                                 
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 1
+0 vs. 0
+FBI vs. RandomFriendlyMimicAgent
+ b                                                                                                                                                                                            
+c bc   c  c  c  c c      ccc cc ccc  c   ccccccccccc   c     c ccccc    cc  cc  cc    c  c  cc c cc c c cc c c c c  c cc c   c   c  cc     cc c   ccccc cc ccc      cc   cc  c ccc   c ccc ccc
+
+team 11 vs. team 2
+0 vs. -3
+FBI vs. loyal vengeful
+ b                                                                                                                                                                                                   
+ccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 3
+0 vs. -3
+FBI vs. loyal vengeful
+ b                                                                                                                                                                                             
+ccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 4
+0 vs. -4
+FBI vs. Matthew Sedam. I always choose b...
+ b                                                                                                                                                        
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 5
+-3 vs. 0
+FBI vs. Al Capone
+ c                                                                                                                                                                                                 
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 6
+0 vs. -5
+FBI vs. Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
+ b                                                                                                    
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 7
+-3 vs. 0
+FBI vs. Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
+ c                                                                                                                                                                                                 
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 8
+0 vs. -5
+FBI vs. The Insecure Man. I never know what I am going to choose.
+ b                                                                                                                     
+cccbbbbccbcccbccccccbbcbcccbcbcbcccbcccbcbbbbbcccbbcccccbbbbcbcbbbbbccccbcbbccccbbbbbcccbbbbccccbccbbcccbbcbbccccccccbb
+
+team 11 vs. team 9
+0 vs. -4
+FBI vs. What Kind of Wizardry is This?!
+ b                                                                                                                                                             
+ccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 10
+-3 vs. 0
+FBI vs. I change my tactics, but they do not work.
+ c                                                                                                                                                                           
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 0
+0 vs. 0
+Rocky Balboa vs. backstabber
+                                                                                                                                                                     
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 1
+0 vs. 0
+Rocky Balboa vs. RandomFriendlyMimicAgent
+                                                                                                              
+c  ccc c c     ccc  c  c  c   c cc c   c     cc cc c c   c  cc  cccc cc    c c cc  c cc c   c   c   cccc  cc c
+
+team 12 vs. team 2
+0 vs. 0
+Rocky Balboa vs. loyal vengeful
+                                                                                                                                                                                               
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 3
+0 vs. 0
+Rocky Balboa vs. loyal vengeful
+                                                                                                                                                                                               
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 4
+0 vs. 0
+Rocky Balboa vs. Matthew Sedam. I always choose b...
+                                                                                                                                                                                                 
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 5
+0 vs. 0
+Rocky Balboa vs. Al Capone
+                                                                                                                                                               
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 6
+0 vs. 0
+Rocky Balboa vs. Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
+                                                                                                                          
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 7
+0 vs. 0
+Rocky Balboa vs. Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
+                                                                                                            
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 8
+0 vs. 0
+Rocky Balboa vs. The Insecure Man. I never know what I am going to choose.
+                                                                                                                                                         
+bcccbbcbccbbbbcbbbbbbbbbcccbbbbbcccbbbbbcbcccbcbccbccbbbcbbbbccbbbbbccbbcbbbbbbcbbcbcbbccbcbbcbbbbbbccccbcbbbbbbcbcbbbbbbbcccbcbbccbbbbbbbbbbcccbbcbbbbbb
+
+team 12 vs. team 9
+0 vs. 0
+Rocky Balboa vs. What Kind of Wizardry is This?!
+                                                                                                                                                                                         
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 10
+0 vs. 0
+Rocky Balboa vs. I change my tactics, but they do not work.
+                                                                                                                                                                                                  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 11
+0 vs. 0
+Rocky Balboa vs. FBI
+                                                                                                                
+                                                                                                                
 
 
 
@@ -274,29 +472,35 @@ cccccbbbccbbbbbcccbbcbcbcccccbbbcbbccccbbcbcbbcccccbccbbbcccbbbcbcbbcccccccbcccc
 	Each column shows score earned per round against each other player.
 
 
-	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	
-P0	0	-384	-252	-376	-259	-250	-500	-250	-385	-252	
-P1	-64	0	50	50	-78	-92	50	-68	-58	50	
-P2	-248	50	0	50	-235	-248	50	-249	-150	50	
-P3	-74	50	50	0	-72	-75	50	-74	-79	50	
-P4	-238	-362	-241	-364	0	-240	-480	-243	-367	-244	
-P5	-250	-363	-252	-375	-258	0	-500	-250	-375	-253	
-P6	100	50	50	50	98	100	0	100	76	50	
-P7	-250	-381	-252	-376	-256	-250	-500	0	-382	-252	
-P8	-63	-195	-150	-179	-77	-75	-240	-66	0	-61	
-P9	-249	50	50	50	-240	-247	50	-248	-372	0	
-Total:	-1332	-1483	-944	-1469	-1373	-1375	-2018	-1344	-2087	-858	
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	
+P0	0	-374	-253	-375	-256	-250	-500	-250	-367	-252	-250	-4	0	
+P1	-78	0	50	50	-62	-64	50	-72	-37	50	-62	0	0	
+P2	-247	50	0	50	-238	-248	50	-249	-159	50	-247	0	0	
+P3	-75	50	50	0	-73	-75	50	-74	-81	50	-75	0	0	
+P4	-243	-374	-243	-367	0	-240	-488	-242	-355	-245	-236	0	0	
+P5	-250	-384	-253	-376	-258	0	-500	-250	-362	-252	-250	-3	0	
+P6	100	50	50	50	98	100	0	100	74	50	100	0	0	
+P7	-250	-378	-252	-377	-256	-250	-500	0	-394	-253	-250	-3	0	
+P8	-87	-189	-159	-188	-93	-94	-221	-50	0	-64	-83	0	0	
+P9	-249	50	50	50	-241	-248	50	-247	-378	0	-249	0	0	
+P10	-250	-385	-253	-375	-260	-250	-500	-250	-370	-252	0	-3	0	
+P11	0	0	-3	-3	-4	0	-5	0	-5	-4	0	0	0	
+P12	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Total:	-1625	-1880	-1211	-1857	-1636	-1615	-2512	-1580	-2428	-1117	-1599	-7	0	
 
 
  Average per round, with team strategy names:
 
-player 0: -148 points: backstabber
-player 1: -165 points: RandomFriendlyMimicAgent
-player 2: -105 points: loyal vengeful
-player 3: -164 points: loyal vengeful
-player 4: -153 points: Matthew Sedam. I always choose b...
-player 5: -153 points: Al Capone
-player 6: -225 points: Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
-player 7: -150 points: Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
-player 8: -232 points: The Insecure Man. I never know what I am going to choose.
-player 9: -96 points: What Kind of Wizardry is This?!
+player 0: -136 points: backstabber
+player 1: -157 points: RandomFriendlyMimicAgent
+player 2: -101 points: loyal vengeful
+player 3: -155 points: loyal vengeful
+player 4: -137 points: Matthew Sedam. I always choose b...
+player 5: -135 points: Al Capone
+player 6: -210 points: Nice Man. I like to be nice. Join me in my quest to gain back humanity by choosing c.
+player 7: -132 points: Rude Man. I like to be nice... Do not worry about what I will choose.. Just join me in my quest to gain back humanity by choosing c...
+player 8: -203 points: The Insecure Man. I never know what I am going to choose.
+player 9: -94 points: What Kind of Wizardry is This?!
+player 10: -134 points: I change my tactics, but they do not work.
+player 11: -1 points: FBI
+player 12: 0 points: Rocky Balboa
