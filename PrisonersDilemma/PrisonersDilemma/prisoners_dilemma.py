@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+'''THIS IS BEN HARDIN'S MODIFIED VERSION OF THE ORIGINAL GAME'''
+
+# -*- coding: utf-8 -*-
 from __future__ import print_function
 '''
 some changes made
@@ -33,10 +36,10 @@ def play_round(player1, player2, history1, history2, score1, score2):
     (history1, history2, score1, score2)
     '''
    
-    RELEASE = 50 # (R) when both players collude
-    TREAT = 100 # (T) when you betray your partner
-    SEVERE_PUNISHMENT = -500 # (S) when your partner betrays you
-    PUNISHMENT = -250 # (P) when both players betray each other
+    RELEASE = 10000 # (R) when both players collude
+    TREAT = 5000 # (T) when you betray your partner
+    SEVERE_PUNISHMENT = -10000# (S) when your partner betrays you
+    PUNISHMENT = -10000 # (P) when both players betray each other
     # Keep T > R > P > S to be a Prisoner's Dilemma
     # Keep 2R > T + S to be an Iterative Prisoner's Dilemma
     
@@ -107,21 +110,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     The history strings have the first round between these two players
     as the first character and the most recent round as the last character.'''
 
-    ######
-    # Jackson Lee and Dylan Petersen
-    ######
-    #
-    # This example player always colludes
     if player == 0:
         if getting_team_name:
-            return 'backstabber'
+            return 'Backstabber'
         else:
             return 'b'
 
-
-    ######
-    ######
-    #KimKarlNEY
     elif player == 1:
         if getting_team_name:
             return 'RandomFriendlyMimicAgent'
@@ -132,26 +126,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return opponent_history[-1]
             except IndexError:
                 return 'c'
-
-
-
-
-
-
-
-
-    ######
-    ######
-    #Team #BrownMoses Burning Bush
-    #Max and Swagthony
-    #AKA Team winners
-    #Game Theory ain't isht
-    #
-    #This example player is silent at first and then
-    #only betrays if they were a sucker last round.
+                
     elif player == 2:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'Loyal Vengeful'
         else:
             if len(opponent_history)==0: #collude because we are innocent
                 return 'c'
@@ -160,27 +138,9 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             else:
                 return 'c' #if they were nice, we'll be nice
 
-
-
-
-
-    # EACH STUDENT TEAM CAN CHANGE ONE OF THESE elif SEGMENTS OF CODE.
-
-
-
-
-
-
-
-
-
-
-    ######
-    ######
-    #
     elif player == 3:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'Loyal Vengeful'
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
@@ -262,6 +222,125 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             return 'b'
         elif history == 'b':
             return 'c'
+            
+    elif player == 13:
+        if getting_team_name:
+            return 'I Collude'
+        else:
+            return 'c'
+    
+    elif player == 14:
+        if getting_team_name:
+            return 'I Collude 2'
+        else:
+            return 'c'
+            
+    elif player == 15:
+        if getting_team_name:
+            return 'I Collude 3'
+        else:
+            return 'c'
+            
+    elif player == 16:
+        if getting_team_name:
+            return 'I Collude 4'
+        else:
+            return 'c'
+    
+    elif player == 17:
+        if getting_team_name:
+            return 'I Collude 5'
+        else:
+            return 'c'
+    
+    elif player == 18:
+        if getting_team_name:
+            return 'I Collude 6'
+        else:
+            return 'c'
+            
+    elif player == 19:
+        if getting_team_name:
+            return 'I Collude 7'
+        else:
+            return 'c'
+            
+    elif player == 20:
+        if getting_team_name:
+            return 'I Betray'
+        else:
+            return 'b'
+    
+    elif player == 21:
+        if getting_team_name:
+            return 'I Betray 2'
+        else:
+            return 'b'
+    
+    elif player == 22:
+        if getting_team_name:
+            return 'I Betray 3'
+        else:
+            return 'b'
+    
+    elif player == 23:
+        if getting_team_name:
+            return 'I Betray 4'
+        else:
+            return 'b'
+            
+    elif player == 24:
+        if getting_team_name:
+            return 'I Betray 5'
+        else:
+            return 'b'
+            
+    elif player == 25:
+        if getting_team_name:
+            return 'I Betray 6'
+        else:
+            return 'b'
+            
+    elif player == 26:
+        if getting_team_name:
+            return 'I Betray 7'
+        else:
+            return 'b'
+    
+    elif player == 27:
+        if getting_team_name:
+            return 'I Like to See What Will Happen'
+        elif score == opponent_score:
+            return 'c'
+        else:
+            return 'b'
+    
+    elif player == 28:
+        if getting_team_name:
+            return 'I Also Like to See What Will Happen'
+        elif score == opponent_score:
+            return 'b'
+        else:
+            return 'c'
+    
+    elif player == 29:
+        if getting_team_name:
+            return 'I Like to Look at Your History'
+        elif opponent_history == history:
+            return 'b'
+        else:
+            return 'c'
+    
+    elif player == 30:
+        if getting_team_name:
+            return 'I Also Like to Look at Your History'
+        elif opponent_history == history:
+            return 'c'
+        else:
+            return 'b'
+    
+    elif player == 31:
+        if 
 
 def play_tournament(num_players):
     #create a list of zeros, one per player
