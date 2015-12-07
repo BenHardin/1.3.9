@@ -36,10 +36,10 @@ def play_round(player1, player2, history1, history2, score1, score2):
     (history1, history2, score1, score2)
     '''
    
-    RELEASE = 10000 # (R) when both players collude
+    RELEASE = 5000 # (R) when both players collude
     TREAT = 5000 # (T) when you betray your partner
-    SEVERE_PUNISHMENT = -10000# (S) when your partner betrays you
-    PUNISHMENT = -10000 # (P) when both players betray each other
+    SEVERE_PUNISHMENT = -5000# (S) when your partner betrays you
+    PUNISHMENT = -5000 # (P) when both players betray each other
     # Keep T > R > P > S to be a Prisoner's Dilemma
     # Keep 2R > T + S to be an Iterative Prisoner's Dilemma
     
@@ -340,9 +340,42 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             return 'b'
     
     elif player == 31:
-        if 
+        if getting_team_name:
+            return 'I vary.'
+        elif history == 'c':
+            return 'b'
+        elif history == 'b':
+            return 'c'
+    
+    elif player == 32:
+        if getting_team_name:
+            return 'True or False?'
+        chance1 = random.choice((True, False))
+        chance2 = random.choice((True, False))
+        if chance1 == True:
+            if chance2 == True:
+                return 'c'
+            else:
+                return 'b'
+        else:
+            return 'b'
+    
+    elif player == 33:
+        if getting_team_name:
+            return 'True of False? 2'
+        chance1 = random.choice((True, False))
+        chance2 = random.choice((True, False))
+        if chance1 == True:
+            if chance2 == True:
+                return 'b'
+            else:
+                return 'c'
+        else:
+            return 'c'
 
-def play_tournament(num_players):
+num_players = 34
+
+def play_tournament():
     #create a list of zeros, one per player
     scores = []
     for i in range(num_players):
