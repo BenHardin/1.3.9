@@ -36,10 +36,10 @@ def play_round(player1, player2, history1, history2, score1, score2):
     (history1, history2, score1, score2)
     '''
    
-    RELEASE = 5000 # (R) when both players collude
-    TREAT = 5000 # (T) when you betray your partner
-    SEVERE_PUNISHMENT = -5000# (S) when your partner betrays you
-    PUNISHMENT = -5000 # (P) when both players betray each other
+    RELEASE = 1000 # (R) when both players collude
+    TREAT = 500# (T) when you betray your partner
+    SEVERE_PUNISHMENT = -500# (S) when your partner betrays you
+    PUNISHMENT = -10 # (P) when both players betray each other
     # Keep T > R > P > S to be a Prisoner's Dilemma
     # Keep 2R > T + S to be an Iterative Prisoner's Dilemma
     
@@ -373,9 +373,65 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         else:
             return 'c'
 
-num_players = 34
+######### PUT YOUR AGENTS HERE
 
-def play_tournament():
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def play_tournament(num_players):
     #create a list of zeros, one per player
     scores = []
     for i in range(num_players):
